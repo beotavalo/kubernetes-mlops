@@ -804,3 +804,6 @@ pipenv shell
 ```
 
 which is equivalent to 'activating' the virtual environment. Any command will now be executed within the virtual environment. Use `exit` to leave the shell session.
+
+## Reference:
+ - [Machine Learning Model Deployments using Seldon Core](https://iamunnip.medium.com/machine-learning-model-deployments-using-seldon-core-139b39d7303f)
